@@ -9,7 +9,7 @@
     "sellers"
   ],
   "homepage": "_",
-  "version": "0.9.7",
+  "version": "0.9.8",
   "author": "Eibbor Srenduas <robbies@eibbors.net> (http://eibbors.net)",
   "contributors": [
     "Adrian Sanchezdelc <adrian@ticadia.com>",
@@ -24,6 +24,7 @@
     "url": "https://github.com/neshte/mws-sdk.git"
   },
   "dependencies": {
+    "iconv-lite": "^0.4.15",
     "xml2js": "^0.4.9"
   },
   "devDependencies": {
