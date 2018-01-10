@@ -1,5 +1,5 @@
 {
-  "name": "mws-sdk",
+  "name": "mws-sdk2",
   "description": "Amazon Marketplace Web Services client with support for all api calls.",
   "keywords": [
     "mws",
@@ -9,7 +9,7 @@
     "sellers"
   ],
   "homepage": "_",
-  "version": "0.9.9",
+  "version": "0.9.12",
   "author": "Eibbor Srenduas <robbies@eibbors.net> (http://eibbors.net)",
   "contributors": [
     "Adrian Sanchezdelc <adrian@ticadia.com>",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ticadia/mws-sdk.git"
+    "url": "https://github.com/neshte/mws-sdk.git"
   },
   "dependencies": {
     "iconv-lite": "^0.4.15",
